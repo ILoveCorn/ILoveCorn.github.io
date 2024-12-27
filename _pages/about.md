@@ -40,11 +40,9 @@ B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 **Programming**: C/C++, Python, MATLAB, Eigen, Ceres
 
-**Robotics**: ROS, CoppeliaSim, Sensor Calibration, MoveIt, ROS-control
+**Robotics**: ROS, CoppeliaSim, MoveIt, ROS-control
 
-**Vision**: OpenCV, PCL, SLAM (visual & LiDAR), SfM, NeRF, Gaussian Splatting
-
-**Hardware**: Robotic Manipulator (UR, Kinova, Cobotta, Franka, LBR), Sensor (Consumer & Industrial Cameras, RealSense, SHINNING 3D, Azure Kinect, OptiTrack, Atracsys, NDI, Livox)
+**Vision**: OpenCV, PCL, SLAM (Visual & LiDAR), SfM, NeRF, Gaussian Splatting
 
 **Mechanical**: CAD (Fusion, SolidWorks, AutoCAD), 3D Printing
 
