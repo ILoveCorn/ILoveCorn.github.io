@@ -17,11 +17,11 @@ I am Yan Ma, a Ph.D. student at the Department of Electronic Engineering, The Ch
 
 # Education
 
-**Department of Electronic Engineering, The Chinese University of Hong Kong** &emsp; _01/2023 - 01/2027 (expected)_  
-Ph.D. in Electronic Engineering  
+**The Chinese University of Hong Kong**  
+**Ph.D. in Electronic Engineering** &emsp; _01/2023 - 01/2027 (expected)_
 
-**School of Mechanical Engineering, Shanghai Jiaotong University** &emsp; _09/2018 - 07/2022_  
-B.Eng. in Mechanical Engineering
+**Shanghai Jiaotong University**  
+**B.Eng. in Mechanical Engineering** &emsp; _09/2018 - 07/2022_
 
 ---
 
