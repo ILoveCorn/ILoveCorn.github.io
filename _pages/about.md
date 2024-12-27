@@ -2,7 +2,6 @@
 layout: archive
 permalink: /
 title: "Yan Ma / 马彦"
-excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -11,17 +10,17 @@ redirect_from:
 
 I am Yan Ma, a Ph.D. student at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://samlai.me/).
 
-**Research Interest**: robot vision, planning, and control with their applications to medical automation (etc., imaging, surgery).
+**Research Interest**: robot vision, planning, and control with their applications to medical robotics
 
 ---
 
 # Education
 
 **The Chinese University of Hong Kong**  
-**Ph.D. in Electronic Engineering** &emsp; _01/2023 - 01/2027 (expected)_
+Ph.D. in Electronic Engineering &emsp; _01/2023 - 01/2027 (expected)_
 
 **Shanghai Jiaotong University**  
-**B.Eng. in Mechanical Engineering** &emsp; _09/2018 - 07/2022_
+B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 ---
 
