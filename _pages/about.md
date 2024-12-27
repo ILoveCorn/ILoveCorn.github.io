@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yan Ma, a Ph.D. student at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://samlai.me/).
 
-**Research Interest**: robot vision, planning, and control with their applications to medical robotics
+**Research Interest**: robot vision, motion planning, control, and deep learning, with applications to medical robotics (currently working on robot-assisted imaging)
 
 ---
 
