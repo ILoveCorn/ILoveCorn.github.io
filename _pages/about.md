@@ -42,7 +42,7 @@ B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 **Robotics**: ROS, CoppeliaSim, MoveIt, ROS-control
 
-**Vision**: OpenCV, PCL, SLAM (Visual & LiDAR), SfM, NeRF, Gaussian Splatting
+**Vision**: OpenCV, PCL, SLAM, SfM, NeRF, Gaussian Splatting
 
 **Mechanical**: CAD (Fusion, SolidWorks, AutoCAD), 3D Printing
 
