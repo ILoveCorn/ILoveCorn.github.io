@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yan Ma, a Ph.D. student at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://samlai.me/).
 
-**Research Interest**: robot vision, motion planning, control, and deep learning, with applications to medical robotics (currently working on robot-assisted imaging)
+**Research Interest**: robot vision and robot learning, with applications to autonomous medical/industrial examination.
 
 ---
 
@@ -30,24 +30,36 @@ B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 1. S. Su, S. Yuan, Z. Li, **Y. Ma**, M. Ma and H. Ren, "A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots", IEEE Transactions on Industrial Informatics (**T-II**), 2024 [[Paper](https://doi.org/10.1109/TII.2024.3423458)]
 
+2. 
+
 **Conference Papers**
 
 1. Y. Wang, **Y. Ma** (co-first author) and H. Ren, "Navigational Augmented Reality for Robotic Drilling," 2024 IEEE International Conference on Advanced Robotics and Its Social Impacts (**ARSO**), 2024 [[Paper](https://doi.org/10.1109/ARSO60199.2024.10557802)]
+
+**Manuscripts Under Review**
+
+1. **Y, Ma** et al., Manuscript under review, IEEE Transactions on Robotics (**T-RO**), 2025. *(Title and full author list omitted to comply with double-anonymous review.)*
 
 ---
 
 # Skills
 
-**Programming**: C/C++, Python, MATLAB, Eigen, Ceres
+**Programming**: C/C++, Python, MATLAB
 
-**Robotics**: ROS, CoppeliaSim, MoveIt, ROS-control
+**Robot Learning**: MuJoCo, CoppeliaSim; Gymnasium; PyTorch, Stable-Baselines3
 
-**Vision**: OpenCV, PCL, SLAM, SfM, NeRF, Gaussian Splatting
+**Robotics Software**: ROS & ROS2, MoveIt, ros_control
 
-**Mechanical**: CAD (Fusion, SolidWorks, AutoCAD), 3D Printing
+**Robotics Hardware**: Manipulators (Franka, UR, KUKA iiwa, Kinova, Cobotta, RealMan), Motion Capture (OptiTrack, fusionTrack, NOKOV)
+
+**Geometry Processing**: trimesh, libigl, Open3D
+
+**Computer Vision**: SLAM, Gaussian Splatting, Sensor Calibration
+
+**Mechanical**: CAD, 3D Printing
 
 ---
 
 # Academic Service
 
-- Reviewer for IEEE ICRA (2023, 2024)
+- Reviewer for IEEE RA-L, ICRA, IROS
