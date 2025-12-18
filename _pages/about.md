@@ -44,7 +44,7 @@ B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 # Skills
 
-**Programming**: C/C++, Python, MATLAB
+**Programming**: C/C++, Python, MATLAB, Vibe Coding
 
 **Robot Learning**: MuJoCo, CoppeliaSim; Gymnasium; PyTorch, Stable-Baselines3
 
