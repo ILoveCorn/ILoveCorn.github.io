@@ -30,8 +30,6 @@ B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
 
 1. S. Su, S. Yuan, Z. Li, **Y. Ma**, M. Ma and H. Ren, "A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots", IEEE Transactions on Industrial Informatics (**T-II**), 2024 [[Paper](https://doi.org/10.1109/TII.2024.3423458)]
 
-2. 
-
 **Conference Papers**
 
 1. Y. Wang, **Y. Ma** (co-first author) and H. Ren, "Navigational Augmented Reality for Robotic Drilling," 2024 IEEE International Conference on Advanced Robotics and Its Social Impacts (**ARSO**), 2024 [[Paper](https://doi.org/10.1109/ARSO60199.2024.10557802)]
