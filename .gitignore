@@ -3,6 +3,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .bundle/
-vendor/
+# Bundler path only. Do not ignore _sass/vendor or assets/js/vendor.
+/vendor/
 push.sh
 .DS_Store
