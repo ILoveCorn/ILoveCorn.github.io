@@ -51,14 +51,16 @@
     
 
     .paper-box-image{
-        justify-content: center;
-        display: flex;
+        display: block;
         width: 100%;
         order: 2;
         img {
+            display: block;
             max-width: 400px;
             width: 100%;
-            height: auto;
+            height: 210px;
+            object-fit: cover;
+            object-position: center;
             box-shadow: 3px 3px 6px #888;
         }
     }
@@ -70,10 +72,14 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            flex: 0 0 38%;
+            width: 38%;
+            min-width: 280px;
+            max-width: 400px;
             order: 1;
+            img {
+                max-width: none;
+            }
         }
         
         .paper-box-text{

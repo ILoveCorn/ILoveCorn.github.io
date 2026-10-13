@@ -30,4 +30,4 @@ The workflow in `.github/workflows/google_scholar_crawler.yaml` writes citation 
 
 `images/papers/natcomm2026-fig1.png` is Figure 1 of Lai et al., *Nature Communications* (2026), https://doi.org/10.1038/s41467-026-74225-3, used unchanged under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Temporary branded cards in `images/papers/` (`placeholder-tro-2026.png`, `placeholder-tii-2024.png`, `placeholder-arso-2024.png`, `placeholder-oct-skin.png`, `placeholder-vla-2026.png`) fill publication and project entries that do not yet have a figure. Replace each file when a real image is available.
+Temporary light figure cards in `images/papers/` (`placeholder-tro-2026.png`, `placeholder-tii-2024.png`, `placeholder-arso-2024.png`, `placeholder-oct-skin.png`, `placeholder-vla-2026.png`, 972×509) fill publication and project entries that do not yet have a figure. Replace each file when a real image is available.
