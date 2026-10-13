@@ -1,63 +1,118 @@
 ---
-layout: archive
 permalink: /
-title: "Yan Ma / 马彦"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Yan Ma, a Ph.D. student at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](https://samlai.me/).
+<span class='anchor' id='about-me'></span>
 
-**Research Interest**: robot vision and robot learning, with applications to autonomous medical/industrial examination.
+我是马彦（Yan Ma），香港中文大学电子工程系博士生，导师为任洪亮教授，研究方向为医学影像机器人。
 
----
+I am Yan Ma (马彦), a Ph.D. student in Electronic Engineering at The Chinese University of Hong Kong (2023.01–2027.06, expected), advised by [Prof. Hongliang Ren (任洪亮)](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I work on medical imaging robotics.
 
-# Education
+<a href="https://scholar.google.com/citations?user=H2TMh68AAAAJ">Google Scholar</a> <strong><span id="total_cit"></span></strong>
 
-**The Chinese University of Hong Kong**  
-Ph.D. in Electronic Engineering &emsp; _01/2023 - 01/2027 (expected)_
+<h1 id="news">近况 News</h1>
 
-**Shanghai Jiaotong University**  
-B.Eng. in Mechanical Engineering &emsp; _09/2018 - 07/2022_
+- *2026.07*: &nbsp;单腱可扭转连续体机器人工作发表于 *Nature Communications*。 / “Single twistable tendon-driven continuum robots” is published in *Nature Communications*.
+- *2026*: &nbsp;二维 OCT 跨尺度手眼标定工作发表于 *IEEE Transactions on Robotics*。 / “Uncertainty-Aware Cross-Scale Hand-Eye Calibration of 2-D Optical Coherence Tomography Using a Plane Target” is published in *IEEE Transactions on Robotics*.
 
----
+<h1 id="publications">论文 Publications</h1>
 
-# Publications
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
-**Journal Papers**
+[Uncertainty-Aware Cross-Scale Hand-Eye Calibration of 2-D Optical Coherence Tomography Using a Plane Target](https://doi.org/10.1109/TRO.2026.3710397)
 
-1. S. Su, S. Yuan, Z. Li, **Y. Ma**, M. Ma and H. Ren, "A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots", IEEE Transactions on Industrial Informatics (**T-II**), 2024 [[Paper](https://doi.org/10.1109/TII.2024.3423458)]
+**Yan Ma**, Haitian Lyu, Jiewen Lai, Ruiyang Zhang, Wu Yuan, Hongliang Ren
 
-**Conference Papers**
+*IEEE Transactions on Robotics (T-RO)*, vol. 42, pp. 3105–3120, 2026
 
-1. Y. Wang, **Y. Ma** (co-first author) and H. Ren, "Navigational Augmented Reality for Robotic Drilling," 2024 IEEE International Conference on Advanced Robotics and Its Social Impacts (**ARSO**), 2024 [[Paper](https://doi.org/10.1109/ARSO60199.2024.10557802)]
+[**Paper**](https://doi.org/10.1109/TRO.2026.3710397) | [**Code**](https://github.com/ILoveCorn/2DCalib)
 
-**Manuscripts Under Review**
+</div></div>
 
-1. **Y, Ma** et al., Manuscript under review, IEEE Transactions on Robotics (**T-RO**), 2025. *(Title and full author list omitted to comply with double-anonymous review.)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2026</div><img src="images/papers/natcomm2026-fig1.png" alt="Figure 1 of Single twistable tendon-driven continuum robots" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
----
+[Single twistable tendon-driven continuum robots](https://doi.org/10.1038/s41467-026-74225-3)
 
-# Skills
+Jiewen Lai, Yanjun Liu, Tian-Ao Ren, **Yan Ma**, Tao Zhang, Jeremy Yuen-Chun Teoh, Mark R. Cutkosky, Hongliang Ren
 
-**Programming**: C/C++, Python, MATLAB, Vibe Coding
+*Nature Communications*, vol. 17, art. no. 8322, 2026
 
-**Robot Learning**: MuJoCo, CoppeliaSim; Gymnasium; PyTorch, Stable-Baselines3
+[**Paper**](https://doi.org/10.1038/s41467-026-74225-3) | [**Project**](https://twist-bot.github.io/)
 
-**Robotics Software**: ROS & ROS2, MoveIt, ros_control
+Thumbnail: Fig. 1 of the paper, unchanged, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**Robotics Hardware**: Manipulators (Franka, UR, KUKA iiwa, Kinova, Cobotta, RealMan), Motion Capture (OptiTrack, fusionTrack, NOKOV)
+</div></div>
 
-**Geometry Processing**: trimesh, libigl, Open3D
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
-**Computer Vision**: SLAM, Gaussian Splatting, Sensor Calibration
+[A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots](https://doi.org/10.1109/TII.2024.3423458)
 
-**Mechanical**: CAD, 3D Printing
+Shijian Su, Sishen Yuan, Zhen Li, **Yan Ma**, Miaomiao Ma, Hongliang Ren
 
----
+*IEEE Transactions on Industrial Informatics (TII)*, vol. 20, no. 12, pp. 13600–13611, 2024
 
-# Academic Service
+[**Paper**](https://doi.org/10.1109/TII.2024.3423458)
 
-- Reviewer for IEEE RA-L, ICRA, IROS
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+[Navigational Augmented Reality for Robotic Drilling](https://doi.org/10.1109/ARSO60199.2024.10557802)
+
+Yupeng Wang, **Yan Ma**, Hongliang Ren
+
+*IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO)*, pp. 86–91, 2024
+
+[**Paper**](https://doi.org/10.1109/ARSO60199.2024.10557802)
+
+</div></div>
+
+<h1 id="research">研究 Research</h1>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**Multimodal skin inspection robot with OCT** 多模态皮肤检测机器人
+
+*2025.01 – present*
+
+带光学相干层析（OCT）的多模态皮肤检测机器人。手眼标定工作已发表于 T-RO；其余部分包括 ScanSim、ScanPlanner，以及基于强化学习的路径规划。
+
+A multimodal skin-inspection robot using optical coherence tomography (OCT). Hand-eye calibration is published in T-RO. The rest of the project covers ScanSim, ScanPlanner, and reinforcement-learning path planning.
+
+[**Calibration code**](https://github.com/ILoveCorn/2DCalib)
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+**VLA dual-arm** 双臂视觉-语言-动作
+
+*2026.07 – 2026.08*
+
+双臂视觉-语言-动作（VLA）系统，使用 π0.5 与 TRON2。
+
+Vision-language-action dual-arm system using π0.5 and TRON2.
+
+</div></div>
+
+<h1 id="education">教育 Education</h1>
+
+- *2023.01 – 2027.06 (expected)*，香港中文大学，电子工程博士。导师：任洪亮。医学影像机器人。  
+  Ph.D. in Electronic Engineering, The Chinese University of Hong Kong. Advisor: Hongliang Ren (任洪亮). Medical imaging robotics.
+- *2018.09 – 2022.06*，上海交通大学，机械工程学士，前 10%。  
+  B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University. Top 10%.
+
+<h1 id="skills">技能 Skills</h1>
+
+- **机器人 Robotics**: imitation learning (ACT, Diffusion Policy, π-series); reinforcement learning (PPO, SAC); computational geometry
+- **编程 Programming**: Python, C++, MATLAB
+- **软件 Software**: ROS, PyTorch
+- **硬件 Hardware**: robot arms, cameras, dexterous hands, motion capture
+- **语言 Language**: IELTS 7.5
