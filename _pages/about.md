@@ -27,8 +27,6 @@ I am Yan Ma, a Ph.D. student in Electronic Engineering at The Chinese University
 
 [**Paper**](https://doi.org/10.1109/TRO.2026.3710397) | [**Code**](https://github.com/ILoveCorn/2DCalib)
 
-- Uncertainty-aware cross-scale hand-eye calibration of 2-D optical coherence tomography with a plane target.
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2026</div><img src="images/papers/natcomm2026-fig1.png" alt="Figure 1 of Single twistable tendon-driven continuum robots" width="100%"></div></div>
@@ -42,8 +40,7 @@ Jiewen Lai, Yanjun Liu, Tian-Ao Ren, **Yan Ma**, Tao Zhang, Jeremy Yuen-Chun Teo
 
 [**Paper**](https://doi.org/10.1038/s41467-026-74225-3) | [**Project**](https://twist-bot.github.io/)
 
-- Single twistable tendon-driven continuum robots.
-- Thumbnail: Fig. 1 of the paper, unchanged, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Thumbnail: Fig. 1 of the paper, unchanged, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 </div></div>
 
@@ -58,8 +55,6 @@ Shijian Su, Sishen Yuan, Zhen Li, **Yan Ma**, Miaomiao Ma, Hongliang Ren
 
 [**Paper**](https://doi.org/10.1109/TII.2024.3423458)
 
-- Wearable, reconfigurable, and modular magnetic tracking for wireless capsule robots.
-
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARSO 2024</div><img src="images/papers/placeholder-arso-2024.png" alt="Placeholder card for the ARSO 2024 navigational augmented reality paper" width="100%"></div></div>
@@ -72,8 +67,6 @@ Yupeng Wang, **Yan Ma**, Hongliang Ren
 *IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO)*, pp. 86–91, 2024
 
 [**Paper**](https://doi.org/10.1109/ARSO60199.2024.10557802)
-
-- Navigational augmented reality for robotic drilling.
 
 </div></div>
 
