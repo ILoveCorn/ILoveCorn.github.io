@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Yan Ma (马彦)"
-description              : "Medical imaging robotics, calibration, and robot learning."
+description              : ""
 url                      : "https://ilovecorn.github.io"
 baseurl                  : ""
 repository               : "ILoveCorn/ILoveCorn.github.io"
@@ -38,7 +38,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "yan-ma-aa962a24b"
   dblp             :
   orcid            :
   pinterest        :

@@ -10,9 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am **Yan Ma (马彦)**, a Ph.D. student in Electronic Engineering at The Chinese University of Hong Kong, advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and Prof. Jiewen Lai. My research focuses on **medical imaging robotics**, with an emphasis on system calibration, surface inspection planning, and robot learning.
-
-Before joining CUHK in January 2023, I received my B.Eng. in Mechanical Engineering from Shanghai Jiao Tong University in June 2022. I expect to complete my Ph.D. in June 2027.
+I am **Yan Ma (马彦)**, a Ph.D. student in Electronic Engineering at The Chinese University of Hong Kong, advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-lai-jiewen).
 
 For research discussions and collaboration, please feel free to contact me at [yanloveoat@gmail.com](mailto:yanloveoat@gmail.com).
 

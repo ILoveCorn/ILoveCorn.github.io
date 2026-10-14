@@ -32,7 +32,9 @@ The homepage follows the layout of [Yi Ren's homepage](https://rayeren.github.io
 
 Publication metadata is in `_data/publications.yml`, rendered by `_includes/publications.html`. Biography, education, and skills are in `_pages/about.md`. The content follows the base CV and the homepage owner's updates. Education uses the reference site's date-first list format. The profile image uses the owner's GitHub avatar URL configured in `_config.yml`.
 
-The publication thumbnails display complete figures at their natural aspect ratios, without cropping or stretching them in CSS:
+Set `featured: true` in a publication entry to display a figure row; `featured: false` uses the reference site's compact text-only list with a code-style venue label. TII 2024 and ARSO 2024 use the text-only list. Figure credits are recorded here and in publication metadata rather than displayed in the homepage citations.
+
+The two displayed publication thumbnails show complete figures at their natural aspect ratios, without cropping or stretching them in CSS. Sources for the image assets are:
 
 | File | Source |
 | --- | --- |
@@ -41,4 +43,4 @@ The publication thumbnails display complete figures at their natural aspect rati
 | `images/papers/tii2024-fig2.png` | Figure 2, Su et al., *IEEE Transactions on Industrial Informatics* (2024), [DOI](https://doi.org/10.1109/TII.2024.3423458), unchanged, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). |
 | `images/papers/arso2024-fig1.png` | Figure 1, Wang, Ma, and Ren, *IEEE ARSO* (2024), [DOI](https://doi.org/10.1109/ARSO60199.2024.10557802). |
 
-Figure source credits appear beside each paper on the page. Earlier placeholder files are retained but are no longer displayed.
+TII and ARSO figure files and earlier placeholder files are retained but are no longer displayed.

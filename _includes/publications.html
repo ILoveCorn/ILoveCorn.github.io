@@ -1,4 +1,5 @@
-{% for paper in site.data.publications %}
+{% assign featured_papers = site.data.publications | where: "featured", true %}
+{% for paper in featured_papers %}
 <div class="paper-box" id="{{ paper.id }}">
   <div class="paper-box-image">
     <div class="paper-figure">
@@ -19,7 +20,15 @@
       {% if paper.project %} | <a href="{{ paper.project }}"><strong>Project</strong></a>{% endif %}
     </p>
     {% if paper.summary %}<p>{{ paper.summary }}</p>{% endif %}
-    <p class="figure-credit">{{ paper.figure_credit }}{% if paper.figure_license %} <a href="{{ paper.figure_license_url }}">{{ paper.figure_license }}</a>.{% endif %}</p>
   </div>
 </div>
 {% endfor %}
+
+{% assign other_papers = site.data.publications | where: "featured", false %}
+{% if other_papers.size > 0 %}
+<ul class="publication-list">
+  {% for paper in other_papers %}
+  <li id="{{ paper.id }}"><code>{{ paper.badge }}</code> <a href="{{ paper.paper }}">{{ paper.title }}</a>, {{ paper.authors }}{% if paper.equal_contribution %} <span class="paper-note">(* Equal contribution.)</span>{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}

@@ -1,5 +1,6 @@
 # Publication facts follow the base CV. DOI links are recorded in the CV paper list.
 - id: oct-calibration
+  featured: true
   title: "Uncertainty-Aware Cross-Scale Hand-Eye Calibration of 2-D Optical Coherence Tomography Using a Plane Target"
   authors: "<strong>Yan Ma</strong>, Haitian Lyu, Jiewen Lai, Ruiyang Zhang, Wu Yuan, Hongliang Ren"
   venue: "IEEE Transactions on Robotics, vol. 42, pp. 3105–3120, 2026"
@@ -12,6 +13,7 @@
   figure_credit: "Figure 1 from Ma et al., IEEE T-RO (2026)."
 
 - id: continuum-robots
+  featured: true
   title: "Single twistable tendon-driven continuum robots"
   authors: "Jiewen Lai*, Yanjun Liu*, Tian-Ao Ren, <strong>Yan Ma</strong>, Tao Zhang, Jeremy Yuen-Chun Teoh, Mark R. Cutkosky, Hongliang Ren"
   venue: "Nature Communications, vol. 17, art. no. 8322, 2026"
@@ -26,6 +28,7 @@
   figure_license_url: "https://creativecommons.org/licenses/by/4.0/"
 
 - id: magnetic-tracking
+  featured: false
   title: "A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots"
   authors: "Shijian Su, Sishen Yuan, Zhen Li, <strong>Yan Ma</strong>, Miaomiao Ma, Hongliang Ren"
   venue: "IEEE Transactions on Industrial Informatics, vol. 20, no. 12, pp. 13600–13611, 2024"
@@ -38,6 +41,7 @@
   figure_license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 
 - id: ar-drilling
+  featured: false
   title: "Navigational Augmented Reality for Robotic Drilling"
   authors: "Yupeng Wang*, <strong>Yan Ma*</strong>, Hongliang Ren"
   venue: "IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO), pp. 86–91, 2024"
