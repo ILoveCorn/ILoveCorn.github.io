@@ -30,7 +30,7 @@ The workflow in `.github/workflows/google_scholar_crawler.yaml` writes citation 
 
 The homepage follows the layout of [Yi Ren's homepage](https://rayeren.github.io/): a profile sidebar, blue links and venue labels, paper figures beside citations on desktop, and a single column on mobile. The original AcadHomepage MIT license is retained.
 
-Publication metadata is in `_data/publications.yml`, rendered by `_includes/publications.html`. Biography, research projects, education, and skills are in `_pages/about.md`. The content follows the base CV; a submitted RA-L paper is described as submitted rather than published.
+Publication metadata is in `_data/publications.yml`, rendered by `_includes/publications.html`. Biography, education, and skills are in `_pages/about.md`. The content follows the base CV and the homepage owner's updates. Education uses the reference site's date-first list format. The profile image uses the owner's GitHub avatar URL configured in `_config.yml`.
 
 The publication thumbnails display complete figures at their natural aspect ratios, without cropping or stretching them in CSS:
 

@@ -17,7 +17,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yan Ma (马彦)"
-  avatar           : "images/avatar.png"
+  avatar           : "https://avatars.githubusercontent.com/u/50043470?v=4&s=400"
   bio              : "Ph.D. student in Electronic Engineering"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
