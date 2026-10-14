@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Yan Ma (马彦)"
-description              : "Ph.D. student in electronic engineering at CUHK, working on medical imaging robotics."
+description              : "Medical imaging robotics, calibration, and robot learning."
 url                      : "https://ilovecorn.github.io"
 baseurl                  : ""
 repository               : "ILoveCorn/ILoveCorn.github.io"
@@ -18,9 +18,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yan Ma (马彦)"
   avatar           : "images/avatar.png"
-  bio              : ""
+  bio              : "Ph.D. student in Electronic Engineering"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
+  github           : "ILoveCorn"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=H2TMh68AAAAJ"
   email            : "yanloveoat@gmail.com"

@@ -40,77 +40,134 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* AcadHomepage paper rows: a natural-aspect figure beside the citation. */
 .paper-box {
     display: flex;
-    justify-content: left;
     align-items: center;
-    flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: 1px solid #efefef;
+    padding: 2em 0;
 
-    .paper-box-image{
-        display: block;
+    .paper-box-image {
+        display: flex;
+        justify-content: center;
         width: 100%;
         order: 2;
-        img {
-            display: block;
-            max-width: 400px;
-            width: 100%;
-            height: 210px;
-            object-fit: cover;
-            object-position: center;
-            box-shadow: 3px 3px 6px #888;
-        }
     }
-    
-    .paper-box-text{
-        max-width: 100%;
+
+    .paper-figure {
+        position: relative;
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .paper-box-image img {
+        display: block;
+        width: 100%;
+        height: auto;
+        box-shadow: 3px 3px 6px #888;
+    }
+
+    .paper-box-text {
+        width: 100%;
         order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            flex: 0 0 38%;
-            width: 38%;
-            min-width: 280px;
-            max-width: 400px;
-            order: 1;
-            img {
-                max-width: none;
-            }
+        min-width: 0;
+        margin-bottom: 1.25em;
+
+        h3 {
+            margin-top: 0;
+            line-height: 1.5;
+            font-size: 1em;
         }
-        
-        .paper-box-text{
-            justify-content: left;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            justify-content: flex-start;
+            flex: 0 0 40%;
+            width: 40%;
+            order: 1;
+        }
+
+        .paper-box-text {
+            flex: 0 0 60%;
+            width: 60%;
             padding-left: 2em;
-            max-width: 60%;
+            margin-bottom: 0;
             order: 2;
         }
-
     }
-
-
-}
-
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
+    top: .5em;
+    left: -.5em;
+    z-index: 1;
+    padding: .1em 1rem;
+    color: #fff;
     background-color: #00369f;
     font-size: .8em;
+    pointer-events: none;
+}
+
+.page__content .paper-note,
+.page__content .figure-credit,
+.page__content .template-credit {
+    font-size: .8em;
+    color: #606970;
+}
+
+.template-credit {
+    margin-top: 3em !important;
+    padding-top: 1em;
+    border-top: 1px solid #efefef;
+}
+
+.page__content h1,
+.page__content .anchor,
+.paper-box {
+    scroll-margin-top: 4.5em;
+}
+
+.page__content #about-me {
+    margin-top: 0;
+
+    &:before {
+        content: none;
+    }
+}
+
+.author__urls li {
+    white-space: normal;
+}
+
+.author__urls_sm a {
+    display: inline-block;
+    padding: .1em;
+}
+
+@media (max-width: 599px) {
+    .profile_box {
+        flex-wrap: wrap;
+    }
+
+    .author__content {
+        flex: 1;
+    }
+
+    .author__urls-wrapper {
+        margin-left: 85px;
+        width: calc(100% - 85px);
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
 }

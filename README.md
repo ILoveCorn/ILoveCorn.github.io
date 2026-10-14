@@ -28,6 +28,17 @@ The workflow in `.github/workflows/google_scholar_crawler.yaml` writes citation 
 
 ## Figures
 
-`images/papers/natcomm2026-fig1.png` is Figure 1 of Lai et al., *Nature Communications* (2026), https://doi.org/10.1038/s41467-026-74225-3, used unchanged under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The homepage follows the layout of [Yi Ren's homepage](https://rayeren.github.io/): a profile sidebar, blue links and venue labels, paper figures beside citations on desktop, and a single column on mobile. The original AcadHomepage MIT license is retained.
 
-Temporary light figure cards in `images/papers/` (`placeholder-tro-2026.png`, `placeholder-tii-2024.png`, `placeholder-arso-2024.png`, `placeholder-oct-skin.png`, `placeholder-vla-2026.png`, 972×509) fill publication and project entries that do not yet have a figure. Replace each file when a real image is available.
+Publication metadata is in `_data/publications.yml`, rendered by `_includes/publications.html`. Biography, research projects, education, and skills are in `_pages/about.md`. The content follows the base CV; a submitted RA-L paper is described as submitted rather than published.
+
+The publication thumbnails display complete figures at their natural aspect ratios, without cropping or stretching them in CSS:
+
+| File | Source |
+| --- | --- |
+| `images/papers/tro2026-fig1.png` | Figure 1, Ma et al., *IEEE Transactions on Robotics* (2026), [DOI](https://doi.org/10.1109/TRO.2026.3710397). |
+| `images/papers/natcomm2026-fig1.png` | Figure 1, Lai et al., *Nature Communications* (2026), [DOI](https://doi.org/10.1038/s41467-026-74225-3), unchanged, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). |
+| `images/papers/tii2024-fig2.png` | Figure 2, Su et al., *IEEE Transactions on Industrial Informatics* (2024), [DOI](https://doi.org/10.1109/TII.2024.3423458), unchanged, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). |
+| `images/papers/arso2024-fig1.png` | Figure 1, Wang, Ma, and Ren, *IEEE ARSO* (2024), [DOI](https://doi.org/10.1109/ARSO60199.2024.10557802). |
+
+Figure source credits appear beside each paper on the page. Earlier placeholder files are retained but are no longer displayed.

@@ -1,0 +1,49 @@
+# Publication facts follow the base CV. DOI links are recorded in the CV paper list.
+- id: oct-calibration
+  title: "Uncertainty-Aware Cross-Scale Hand-Eye Calibration of 2-D Optical Coherence Tomography Using a Plane Target"
+  authors: "<strong>Yan Ma</strong>, Haitian Lyu, Jiewen Lai, Ruiyang Zhang, Wu Yuan, Hongliang Ren"
+  venue: "IEEE Transactions on Robotics, vol. 42, pp. 3105–3120, 2026"
+  badge: "T-RO 2026"
+  image: "/images/papers/tro2026-fig1.png"
+  alt: "OCT calibration pipeline: pose measurements and OCT images feed uncertainty-aware estimation."
+  paper: "https://doi.org/10.1109/TRO.2026.3710397"
+  code: "https://github.com/ILoveCorn/2DCalib"
+  summary: "Plane-based calibration with explicit pose uncertainty and joint optimization on a composite manifold."
+  figure_credit: "Figure 1 from Ma et al., IEEE T-RO (2026)."
+
+- id: continuum-robots
+  title: "Single twistable tendon-driven continuum robots"
+  authors: "Jiewen Lai*, Yanjun Liu*, Tian-Ao Ren, <strong>Yan Ma</strong>, Tao Zhang, Jeremy Yuen-Chun Teoh, Mark R. Cutkosky, Hongliang Ren"
+  venue: "Nature Communications, vol. 17, art. no. 8322, 2026"
+  badge: "Nat. Commun. 2026"
+  image: "/images/papers/natcomm2026-fig1.png"
+  alt: "Figure 1 showing the design and operation of single twistable tendon-driven continuum robots."
+  paper: "https://doi.org/10.1038/s41467-026-74225-3"
+  project: "https://twist-bot.github.io/"
+  equal_contribution: true
+  figure_credit: "Figure 1 from Lai et al. (2026), unchanged."
+  figure_license: "CC BY 4.0"
+  figure_license_url: "https://creativecommons.org/licenses/by/4.0/"
+
+- id: magnetic-tracking
+  title: "A Wearable, Reconfigurable, and Modular Magnetic Tracking System for Wireless Capsule Robots"
+  authors: "Shijian Su, Sishen Yuan, Zhen Li, <strong>Yan Ma</strong>, Miaomiao Ma, Hongliang Ren"
+  venue: "IEEE Transactions on Industrial Informatics, vol. 20, no. 12, pp. 13600–13611, 2024"
+  badge: "TII 2024"
+  image: "/images/papers/tii2024-fig2.png"
+  alt: "Modular magnetic sensor array and its reconfigurable geometry for capsule robot tracking."
+  paper: "https://doi.org/10.1109/TII.2024.3423458"
+  figure_credit: "Figure 2 from Su et al. (2024), unchanged."
+  figure_license: "CC BY-NC-ND 4.0"
+  figure_license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+- id: ar-drilling
+  title: "Navigational Augmented Reality for Robotic Drilling"
+  authors: "Yupeng Wang*, <strong>Yan Ma*</strong>, Hongliang Ren"
+  venue: "IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO), pp. 86–91, 2024"
+  badge: "ARSO 2024"
+  image: "/images/papers/arso2024-fig1.png"
+  alt: "System architecture combining augmented reality, surgical navigation, and a robotic drilling arm."
+  paper: "https://doi.org/10.1109/ARSO60199.2024.10557802"
+  equal_contribution: true
+  figure_credit: "Figure 1 from Wang, Ma, and Ren, IEEE ARSO (2024)."

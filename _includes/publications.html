@@ -1,0 +1,25 @@
+{% for paper in site.data.publications %}
+<div class="paper-box" id="{{ paper.id }}">
+  <div class="paper-box-image">
+    <div class="paper-figure">
+      <div class="badge">{{ paper.badge }}</div>
+      <a href="{{ paper.paper }}" aria-label="Read {{ paper.title | escape }}">
+        <img src="{{ paper.image | relative_url }}" alt="{{ paper.alt | escape }}" loading="lazy" decoding="async">
+      </a>
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
+    <p>{{ paper.authors }}</p>
+    <p class="paper-venue"><em>{{ paper.venue }}</em></p>
+    {% if paper.equal_contribution %}<p class="paper-note">* Equal contribution.</p>{% endif %}
+    <p class="paper-links">
+      <a href="{{ paper.paper }}"><strong>Paper</strong></a>
+      {% if paper.code %} | <a href="{{ paper.code }}"><strong>Code</strong></a>{% endif %}
+      {% if paper.project %} | <a href="{{ paper.project }}"><strong>Project</strong></a>{% endif %}
+    </p>
+    {% if paper.summary %}<p>{{ paper.summary }}</p>{% endif %}
+    <p class="figure-credit">{{ paper.figure_credit }}{% if paper.figure_license %} <a href="{{ paper.figure_license_url }}">{{ paper.figure_license }}</a>.{% endif %}</p>
+  </div>
+</div>
+{% endfor %}
