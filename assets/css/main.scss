@@ -111,6 +111,17 @@
     pointer-events: none;
 }
 
+/* Match the inline venue labels in rayeren.github.io's published stylesheet. */
+.publication-list .highlighter-rouge {
+    background-color: #03228d;
+    color: white;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: .6875em;
+    border: 0 solid #f2f3f3;
+    border-radius: 0;
+}
+
 .page__content .paper-note,
 .page__content .figure-credit,
 .page__content .template-credit {

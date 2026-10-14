@@ -28,7 +28,7 @@
 {% if other_papers.size > 0 %}
 <ul class="publication-list">
   {% for paper in other_papers %}
-  <li id="{{ paper.id }}"><code>{{ paper.badge }}</code> <a href="{{ paper.paper }}">{{ paper.title }}</a>, {{ paper.authors }}{% if paper.equal_contribution %} <span class="paper-note">(* Equal contribution.)</span>{% endif %}</li>
+  <li id="{{ paper.id }}"><code class="language-plaintext highlighter-rouge">{{ paper.badge }}</code> <a href="{{ paper.paper }}">{{ paper.title }}</a>, {{ paper.authors }}{% if paper.equal_contribution %} <span class="paper-note">(* Equal contribution.)</span>{% endif %}</li>
   {% endfor %}
 </ul>
 {% endif %}
