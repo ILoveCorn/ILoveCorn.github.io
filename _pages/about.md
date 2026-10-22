@@ -28,11 +28,11 @@ For research discussions and collaboration, please feel free to contact me at [y
 <span class="anchor" id="-skills"></span>
 <h1 id="skills">🛠 Skills</h1>
 
-- **Robotics**: kinematics and dynamics, system calibration, surface path planning.
-- **Imitation learning**: ACT, Diffusion Policy, and π-series models; demonstration collection, model training, and deployment on physical robots.
-- **Reinforcement learning**: PPO, SAC, Gymnasium, and Stable-Baselines3; experience training small reinforcement-learning models.
+- **Robotics**: kinematics and dynamics, system calibration, path planning.
+- **Imitation learning**: ACT, Diffusion Policy, and π-series models; demonstration collection, model training, and deployment on real robots.
+- **Reinforcement learning**: PPO, SAC, etc.; Gymnasium, Stable-Baselines3.
 - **Computational geometry**: point cloud and triangle mesh processing.
-- **Programming and tools**: Python, C/C++, MATLAB, Linux, Git, ROS, PyTorch, OpenCV, PCL, Ceres, and trimesh.
+- **Programming and tools**: Python, C/C++, MATLAB; Linux, Git, ROS; PyTorch, OpenCV, PCL, Ceres, trimesh; Codex, Cursor, Claude Code.
 - **Hardware**: mechanical design and fabrication; robot arms, cameras, dexterous hands, and motion capture systems.
 - **English**: IELTS 7.5 · CET-6 636.
 
