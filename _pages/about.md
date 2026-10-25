@@ -28,7 +28,7 @@ For research discussions and collaboration, please feel free to contact me at [y
 <span class="anchor" id="-academic-service"></span>
 <h1 id="academic-service">💼 Academic Service</h1>
 
-- **Regular Reviewer:** T-RO, RA-L, T-IP, ICRA, IROS
+- **Reviewer:** T-RO, RA-L, T-IP, ICRA, IROS
 
 <span class="anchor" id="-skills"></span>
 <h1 id="skills">🛠 Skills</h1>
