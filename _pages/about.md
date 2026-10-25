@@ -10,9 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am **Yan Ma (马彦)**, a Ph.D. student in Electronic Engineering at The Chinese University of Hong Kong, advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Prof. Jiewen Lai](http://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-lai-jiewen).
-
-For research discussions and collaboration, please feel free to contact me at [yanloveoat@gmail.com](mailto:yanloveoat@gmail.com).
+I am Yan Ma, a Ph.D. student in Electronic Engineering at The Chinese University of Hong Kong (2023.01–2027.06, expected), advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research combines model-based and learning-based methods to build reliable and efficient autonomous robotic imaging systems.
 
 <span class="anchor" id="-publications"></span>
 <h1 id="publications">📝 Publications</h1>
