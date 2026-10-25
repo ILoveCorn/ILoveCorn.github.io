@@ -25,6 +25,12 @@ For research discussions and collaboration, please feel free to contact me at [y
 - *2023.01 - 2027.06 (expected)*, Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong.
 - *2018.09 - 2022.06*, B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai.
 
+<span class="anchor" id="-academic-service"></span>
+<h1 id="academic-service">💼 Academic Service</h1>
+
+- **Journals**: Reviewer for IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L), and IEEE Transactions on Image Processing (T-IP).
+- **Conferences**: Reviewer for ICRA and IROS.
+
 <span class="anchor" id="-skills"></span>
 <h1 id="skills">🛠 Skills</h1>
 
